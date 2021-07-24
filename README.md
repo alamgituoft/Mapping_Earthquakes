@@ -8,7 +8,7 @@ Software: Google Chrome Web Browser, Visual Studio Code 1.56.2, Github, Mapbox, 
 Data sources: Earthquake data, https://earthquake.usgs.gov/ and Tectonic data from Github.
 
 # Results
-An interactive map which filters earthquakes by magnitudes, major earthquakes and tectonic line around the world.
+An interactive map which filters earthquakes by magnitudes, major earthquakes and tectonic lines around the world.
 ## Preview of the website below:
 ## Three types of view: Streets, Satellite & Dark view:
 ![image](https://user-images.githubusercontent.com/81877387/126858559-19716107-15f7-445e-93bc-0c1c7c9c0aef.png)
