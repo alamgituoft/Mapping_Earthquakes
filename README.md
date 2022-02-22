@@ -3,6 +3,8 @@
 # Project Overview
 Creating an interactive web map that displays earthquake data around the world.
 
+![image](https://user-images.githubusercontent.com/81877387/155235603-49b4f377-b58d-411d-a90e-1298d677b011.png)
+
 # Resources
 Software: Google Chrome Web Browser, Visual Studio Code 1.56.2, Github, Mapbox, Leafletjs.
 Data sources: Earthquake data, https://earthquake.usgs.gov/ and Tectonic data from Github.
